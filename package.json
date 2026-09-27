@@ -1,0 +1,20 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is my first practice for npm",
+  "license": "ISC",
+  "author": "Tutan dey",
+  "type": "commonjs",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
